@@ -1,48 +1,11 @@
 body {
-<<<<<<< HEAD
-  color: blue;
-  text-align: center;
-  font-family: "Arial";
-  font-size: 16px;
-  margin: 0;
-  padding: 0;
-  background-color: rgba(0, 0, 0, 0.76);
-}
-
-#cabecera {
-  width: 100%;
-  background-color: #e0e0e0;
-  text-align: center;
-  font-family: 20px;
-  padding: 5px 0;
-  color: royalblue;
-  border: 1px solid royalblue;
-  box-shadow: 0 0 5px grey;
-  display: flex;
-  justify-content: center;
-  justify-items: center;
-}
-
-#cabecera img {
-  width: 50px;
-  height: 50px;
-  margin-right: 10px;
-}
-
-#container {
-  width: 70%;
-  text-align: left;
-  border: 1px solid #ddd;
-  margin: 0 auto;
-  margin-top: 5px;
-  background-color: white;
-=======
     color: blue;
     text-align: center;
     font-family: "Arial";
     font-size: 16px;
     margin: 0;
     padding: 0;
+    background-color: rgba(0, 0, 0, 0.76);
 }
 
 #cabecera {
@@ -54,6 +17,15 @@ body {
     color: royalblue;
     border: 1px solid royalblue;
     box-shadow: 0 0 5px grey;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+}
+
+#cabecera img {
+    width: 50px;
+    height: 50px;
+    margin-right: 10px;
 }
 
 #container {
@@ -62,7 +34,7 @@ body {
     border: 1px solid #ddd;
     margin: 0 auto;
     margin-top: 5px;
->>>>>>> 9a186e1cc6f17e49dee0a4a12092a0104440c438
+    background-color: white;
 }
 
 #container h1 {
