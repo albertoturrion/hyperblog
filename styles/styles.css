@@ -1,4 +1,5 @@
 body {
+<<<<<<< HEAD
   color: blue;
   text-align: center;
   font-family: "Arial";
@@ -35,12 +36,47 @@ body {
   margin: 0 auto;
   margin-top: 5px;
   background-color: white;
+=======
+    color: blue;
+    text-align: center;
+    font-family: "Arial";
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+}
+
+#cabecera {
+    width: 100%;
+    background-color: #e0e0e0;
+    text-align: center;
+    font-family: 20px;
+    padding: 5px 0;
+    color: royalblue;
+    border: 1px solid royalblue;
+    box-shadow: 0 0 5px grey;
+}
+
+#container {
+    width: 70%;
+    text-align: left;
+    border: 1px solid #ddd;
+    margin: 0 auto;
+    margin-top: 5px;
+>>>>>>> 9a186e1cc6f17e49dee0a4a12092a0104440c438
 }
 
 #container h1 {
-  font-size: 20px;
+    font-size: 20px;
 }
 
 #post {
-  padding: 1em;
+    padding: 1em;
+}
+
+.main-footer {
+    text-align: center;
+    background-color: #e0e0e0;
+    color: royalblue;
+    border: 1px solid royalblue;
+    box-shadow: 0 0 5px grey;
 }
